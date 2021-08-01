@@ -1,5 +1,5 @@
-SalesOrderID,SalesOrderDetailID,OrderQty,UnitPriceWithDiscount,UnitPrice,UnitPriceDiscount,LineTotal,ProductID,StandardCost,ListPrice,productCategoryName,CompanyName,ShipMethod,DueDate,shipToAddressCity,sucursal
-999990,999990,12,356.9,356.9,0,0,836,360.94,594.83,NULL,NULL,NULL,7/1/2021 11:00,Auburn,Sucursal 2
-999991,999991,7,356.9,356.9,0,0,822,360.94,594.83,NULL,NULL,NULL,7/1/2021 11:00,Auburn,Sucursal 2
-999992,999992,8,63.9,63.9,0,0,907,47.29,106.5,NULL,NULL,NULL,7/1/2021 11:00,Wokingham,Sucursal 2
-999994,999992,8,63.9,63.9,0,0,907,47.29,106.5,NULL,NULL,NULL,7/1/2021 11:00,Wokingham,Sucursal 2
+SalesOrderID,SalesOrderDetailID,OrderQty,UnitPriceWithDiscount,UnitPrice,UnitPriceDiscount,LineTotal,ProductID,StandardCost,ListPrice,productCategoryName,CompanyName,ShipMethod,shipToAddressCity,sucursal
+999990,999990,12,356.9,356.9,0,0,836,360.94,594.83,NULL,NULL,NULL,Auburn,Sucursal 2
+999991,999991,7,356.9,356.9,0,0,822,360.94,594.83,NULL,NULL,NULL,Auburn,Sucursal 2
+999992,999992,8,63.9,63.9,0,0,907,47.29,106.5,NULL,NULL,NULL,Wokingham,Sucursal 2
+999994,999992,8,63.9,63.9,0,0,907,47.29,106.5,NULL,NULL,NULL,Wokingham,Sucursal 2
